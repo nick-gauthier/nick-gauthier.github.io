@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Nick Gauthier</title>
+    <title>Publications on Nicolas Gauthier</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Nick Gauthier</description>
+    <description>Recent content in Publications on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,11 +13,11 @@
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+      <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
+      <link>/publication/farming-spread-aegean/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
       
-      <guid>/publication/person-re-identification/</guid>
+      <guid>/publication/farming-spread-aegean/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
