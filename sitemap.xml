@@ -14,8 +14,17 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+      <loc>/project/north-africa/</loc>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/southwest/</loc>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -24,6 +33,15 @@
     <url>
     
       <loc>/talk/example-talk/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -68,16 +86,7 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
+      <loc>/project/medland/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -114,6 +123,16 @@
     
     <url>
     
+      <loc>/tags/agent-based-model/</loc>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/categories/</loc>
       <priority>0</priority>
     </url>
@@ -123,8 +142,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/tags/climate-model/</loc>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -133,8 +152,8 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/tags/land-use/</loc>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -164,7 +183,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
