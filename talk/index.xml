@@ -49,12 +49,30 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Parametric uncertainty in a simple model of a social-ecological network</title>
+      <link>/talk/caa-2017/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/caa-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent-based modeling of past anthropogenic land-cover change: A case study from Roman North Africa</title>
+      <link>/talk/sdwg/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/talk/sdwg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Placing people in the environment: Coupling agent-based land-use and Earth system models</title>
       <link>/talk/comses/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
       <guid>/talk/comses/</guid>
-      <description>Embed your slides or video here using shortcodes.   </description>
+      <description>View the talk here.   </description>
     </item>
     
   </channel>
