@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Nicolas Gauthier</title>
-    <link>/talk/</link>
+    <link>https://nick-gauthier.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nick-gauthier.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Generalized Additive Mixed Models for Spatial Networks</title>
-      <link>/talk/saa-2019b/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019b/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/talk/saa-2019b/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The frailty-mortality paradox: Insights from the Spanish flu pandemic of 1918</title>
-      <link>/talk/saa-2018/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019a/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/talk/saa-2018/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Niche Construction in Roman North Africa</title>
+      <link>https://nick-gauthier.github.io/talk/saa-2018/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/talk/saa-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
-      <link>/talk/saa-2017/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2017/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/saa-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
-      <link>/talk/saa-2019a/</link>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2019a/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parametric uncertainty in a simple model of a social-ecological network</title>
-      <link>/talk/caa-2017/</link>
+      <link>https://nick-gauthier.github.io/talk/caa-2017/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/caa-2017/</guid>
+      <guid>https://nick-gauthier.github.io/talk/caa-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agent-based modeling of past anthropogenic land-cover change: A case study from Roman North Africa</title>
-      <link>/talk/sdwg/</link>
+      <link>https://nick-gauthier.github.io/talk/sdwg/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/sdwg/</guid>
+      <guid>https://nick-gauthier.github.io/talk/sdwg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placing people in the environment: Coupling agent-based land-use and Earth system models</title>
-      <link>/talk/comses/</link>
+      <link>https://nick-gauthier.github.io/talk/comses/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/comses/</guid>
+      <guid>https://nick-gauthier.github.io/talk/comses/</guid>
       <description>View the talk here.   </description>
     </item>
     

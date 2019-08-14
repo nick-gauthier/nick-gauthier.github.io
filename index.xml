@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolas Gauthier on Nicolas Gauthier</title>
-    <link>/</link>
+    <link>https://nick-gauthier.github.io/</link>
     <description>Recent content in Nicolas Gauthier on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,143 +11,143 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
-      <link>/publication/archaeoglobe/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/archaeoglobe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
-      <link>/publication/southwest-networks/</link>
+      <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>/publication/southwest-networks/</guid>
+      <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Additive Mixed Models for Spatial Networks</title>
-      <link>/talk/saa-2019b/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019b/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/talk/saa-2019b/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The frailty-mortality paradox: Insights from the Spanish flu pandemic of 1918</title>
-      <link>/talk/saa-2018/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019a/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/talk/saa-2018/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
-      <link>/publication/risk-resilience/</link>
+      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
       
-      <guid>/publication/risk-resilience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
-      <link>/talk/saa-2017/</link>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
-      <link>/talk/saa-2019a/</link>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2019a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parametric uncertainty in a simple model of a social-ecological network</title>
-      <link>/talk/caa-2017/</link>
-      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/caa-2017/</guid>
+      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>/project/north-africa/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2018/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/talk/saa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
+      <link>https://nick-gauthier.github.io/talk/saa-2017/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/talk/saa-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric uncertainty in a simple model of a social-ecological network</title>
+      <link>https://nick-gauthier.github.io/talk/caa-2017/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/talk/caa-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agricultural Niche Construction in Roman North Africa</title>
+      <link>https://nick-gauthier.github.io/project/north-africa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/north-africa/</guid>
+      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArchaeoGLOBE</title>
-      <link>/project/archaeoglobe/</link>
+      <link>https://nick-gauthier.github.io/project/archaeoglobe/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/archaeoglobe/</guid>
+      <guid>https://nick-gauthier.github.io/project/archaeoglobe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Drought Variability and Interaction Networks in the American Southwest</title>
-      <link>/project/southwest/</link>
+      <title>Drought Variability and Social Interaction in the American Southwest</title>
+      <link>https://nick-gauthier.github.io/project/southwest/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/southwest/</guid>
+      <guid>https://nick-gauthier.github.io/project/southwest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>
-      <link>/project/spatial-interaction/</link>
+      <link>https://nick-gauthier.github.io/project/spatial-interaction/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/spatial-interaction/</guid>
+      <guid>https://nick-gauthier.github.io/project/spatial-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Additive Models for Spatial Networks</title>
-      <link>/project/gam-networks/</link>
+      <link>https://nick-gauthier.github.io/project/gam-networks/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/gam-networks/</guid>
+      <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agent-based modeling of past anthropogenic land-cover change: A case study from Roman North Africa</title>
-      <link>/talk/sdwg/</link>
+      <link>https://nick-gauthier.github.io/talk/sdwg/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/sdwg/</guid>
+      <guid>https://nick-gauthier.github.io/talk/sdwg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placing people in the environment: Coupling agent-based land-use and Earth system models</title>
-      <link>/talk/comses/</link>
+      <link>https://nick-gauthier.github.io/talk/comses/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>/talk/comses/</guid>
+      <guid>https://nick-gauthier.github.io/talk/comses/</guid>
       <description>&lt;p&gt;View the talk &lt;a href=&#34;https://www.youtube.com/watch?v=-cWOVlC5-KA&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/-cWOVlC5-KA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
+      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
+      <description></description>
     </item>
     
   </channel>

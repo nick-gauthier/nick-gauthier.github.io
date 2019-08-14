@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agent-based-model on Nicolas Gauthier</title>
-    <link>/tags/agent-based-model/</link>
+    <link>https://nick-gauthier.github.io/tags/agent-based-model/</link>
     <description>Recent content in Agent-based-model on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 01 Apr 2017 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/tags/agent-based-model/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nick-gauthier.github.io/tags/agent-based-model/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>/project/north-africa/</link>
+      <link>https://nick-gauthier.github.io/project/north-africa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/north-africa/</guid>
+      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mediterranean Landscape Dynamics</title>
-      <link>/project/medland/</link>
+      <link>https://nick-gauthier.github.io/project/medland/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/project/medland/</guid>
+      <guid>https://nick-gauthier.github.io/project/medland/</guid>
       <description></description>
     </item>
     
