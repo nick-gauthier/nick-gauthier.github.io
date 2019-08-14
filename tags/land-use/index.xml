@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Land use on Nicolas Gauthier</title>
+    <title>Land-use on Nicolas Gauthier</title>
     <link>https://nick-gauthier.github.io/tags/land-use/</link>
-    <description>Recent content in Land use on Nicolas Gauthier</description>
+    <description>Recent content in Land-use on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>ArchaeoGLOBE</title>
-      <link>https://nick-gauthier.github.io/project/archaeoglobe/</link>
+      <title>Agricultural Niche Construction in Roman North Africa</title>
+      <link>https://nick-gauthier.github.io/project/north-africa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://nick-gauthier.github.io/project/archaeoglobe/</guid>
+      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediterranean Landscape Dynamics</title>
+      <link>https://nick-gauthier.github.io/project/medland/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://nick-gauthier.github.io/project/medland/</guid>
       <description></description>
     </item>
     
