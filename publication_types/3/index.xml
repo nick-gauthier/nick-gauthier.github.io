@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/publication_types/3/</link>
+    <link>/publication_types/3/</link>
     <description>Recent content in 3 on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 22 Aug 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://nick-gauthier.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Multilevel simulation of demography and food production in ancient agrarian societies: A case study from Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/publication/roman-abm/</link>
+      <link>/publication/roman-abm/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://nick-gauthier.github.io/publication/roman-abm/</guid>
+      <guid>/publication/roman-abm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
-      <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
+      <link>/publication/southwest-networks/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 -0700</pubDate>
       
-      <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
+      <guid>/publication/southwest-networks/</guid>
       <description></description>
     </item>
     

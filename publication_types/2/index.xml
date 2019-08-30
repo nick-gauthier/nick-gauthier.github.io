@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Nicolas Gauthier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="https://nick-gauthier.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
+      <link>/publication/archaeoglobe/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/archaeoglobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
-      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
+      <link>/publication/risk-resilience/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
+      <guid>/publication/risk-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
-      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
+      <link>/publication/farming-spread-aegean/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
+      <guid>/publication/farming-spread-aegean/</guid>
       <description></description>
     </item>
     
