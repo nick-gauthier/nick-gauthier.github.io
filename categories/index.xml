@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Nicolas Gauthier</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Nicolas Gauthier</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/categories/</link>
+      <atom:link href="https://nick-gauthier.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://nick-gauthier.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,341 +1,252 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/publication/archaeoglobe/</loc>
-      <lastmod>2019-08-30T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/project/spatial-interaction/</loc>
+    <lastmod>2019-10-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/roman-abm/</loc>
-      <lastmod>2019-08-22T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/networks/</loc>
+    <lastmod>2019-10-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/southwest-networks/</loc>
-      <lastmod>2019-05-15T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/</loc>
+    <lastmod>2019-10-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/saa-2019b/</loc>
-      <lastmod>2019-04-12T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/project/</loc>
+    <lastmod>2019-10-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/saa-2019a/</loc>
-      <lastmod>2019-04-11T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/</loc>
+    <lastmod>2019-10-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/risk-resilience/</loc>
-      <lastmod>2018-03-15T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/project/archaeoglobe/</loc>
+    <lastmod>2019-09-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/saa-2018/</loc>
-      <lastmod>2017-04-02T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/land-use/</loc>
+    <lastmod>2019-09-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/saa-2017/</loc>
-      <lastmod>2017-04-02T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/nicolas-gauthier/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/caa-2017/</loc>
-      <lastmod>2017-04-02T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication_types/2/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/north-africa/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/and-the-archaeoglobe-project/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/archaeoglobe/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/andrea-kay/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/southwest/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/archaeoglobe/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/spatial-interaction/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/gam-networks/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/ben-marwick/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/sdwg/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/dorian-fuller/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/lucas-stephens/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/comses/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/nicole-boivin/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication_types/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/torben-rick/</loc>
+    <lastmod>2019-08-30T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication_types/3/</loc>
+    <lastmod>2019-08-22T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/farming-spread-aegean/</loc>
-      <lastmod>2016-11-30T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/roman-abm/</loc>
+    <lastmod>2019-08-22T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/medland/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/southwest-networks/</loc>
+    <lastmod>2019-05-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-08-30T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2019b/</loc>
+    <lastmod>2019-04-12T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/3/</loc>
-      <lastmod>2019-08-22T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2019a/</loc>
+    <lastmod>2019-04-11T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/agent-based-model/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/gams/</loc>
+    <lastmod>2019-04-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/project/gam-networks/</loc>
+    <lastmod>2019-04-01T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/climate-model/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/c-michael-barton/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/drought/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/genevieve-pothier-bouchard/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/gams/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/j-emili-aura-tortosa/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/land-use/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/julien-g-riel-salvatore/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/land-use/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/margarita-vadillo-conesa/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/networks/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/oreto-garcia-puchol/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/risk-resilience/</loc>
+    <lastmod>2018-03-15T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/project/</loc>
-      <lastmod>2017-04-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2018/</loc>
+    <lastmod>2017-04-02T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-08-30T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2017/</loc>
+    <lastmod>2017-04-02T00:00:00-07:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/caa-2017/</loc>
+    <lastmod>2017-04-02T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/agent-based-model/</loc>
+    <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/project/north-africa/</loc>
+    <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/climate-model/</loc>
+    <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/tags/drought/</loc>
+    <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/project/southwest/</loc>
+    <lastmod>2017-04-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/sdwg/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/comses/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/talk/</loc>
+    <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/publication/farming-spread-aegean/</loc>
+    <lastmod>2016-11-30T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/project/medland/</loc>
+    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nick-gauthier.github.io/post/</loc>
+  </url>
   
 </urlset>

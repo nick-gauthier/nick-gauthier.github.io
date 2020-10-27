@@ -1,78 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Nicolas Gauthier</title>
-    <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Nicolas Gauthier</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Recent &amp; Upcoming Talks | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/talk/</link>
+      <atom:link href="https://nick-gauthier.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nick-gauthier.github.io/talk/</link>
+    </image>
     
     <item>
       <title>Generalized Additive Mixed Models for Spatial Networks</title>
-      <link>/talk/saa-2019b/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019b/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2019b/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The frailty-mortality paradox: Insights from the Spanish flu pandemic of 1918</title>
-      <link>/talk/saa-2019a/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2019a/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2019a/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2019a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>/talk/saa-2018/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2018/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2018/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought Variability and the Robustness of Agrarian Social Networks</title>
-      <link>/talk/saa-2017/</link>
+      <link>https://nick-gauthier.github.io/talk/saa-2017/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/saa-2017/</guid>
+      <guid>https://nick-gauthier.github.io/talk/saa-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parametric uncertainty in a simple model of a social-ecological network</title>
-      <link>/talk/caa-2017/</link>
+      <link>https://nick-gauthier.github.io/talk/caa-2017/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/caa-2017/</guid>
+      <guid>https://nick-gauthier.github.io/talk/caa-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agent-based modeling of past anthropogenic land-cover change: A case study from Roman North Africa</title>
-      <link>/talk/sdwg/</link>
+      <link>https://nick-gauthier.github.io/talk/sdwg/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/sdwg/</guid>
+      <guid>https://nick-gauthier.github.io/talk/sdwg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Placing people in the environment: Coupling agent-based land-use and Earth system models</title>
-      <link>/talk/comses/</link>
+      <link>https://nick-gauthier.github.io/talk/comses/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/talk/comses/</guid>
-      <description>View the talk here.   </description>
+      <guid>https://nick-gauthier.github.io/talk/comses/</guid>
+      <description>&lt;p&gt;View the talk &lt;a href=&#34;https://www.youtube.com/watch?v=-cWOVlC5-KA&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-cWOVlC5-KA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
     </item>
     
   </channel>

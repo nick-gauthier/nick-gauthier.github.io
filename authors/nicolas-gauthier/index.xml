@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>**Nicolas Gauthier** | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
+      <atom:link href="https://nick-gauthier.github.io/authors/nicolas-gauthier/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Nicolas Gauthier**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>**Nicolas Gauthier**</title>
+      <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
+    </image>
+    
+    <item>
+      <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
+      <link>https://nick-gauthier.github.io/publication/archaeoglobe/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/archaeoglobe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multilevel simulation of demography and food production in ancient agrarian societies: A case study from Roman North Africa</title>
+      <link>https://nick-gauthier.github.io/publication/roman-abm/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/roman-abm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
+      <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
+      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
+      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

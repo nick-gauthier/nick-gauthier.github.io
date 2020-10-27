@@ -1,86 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Nicolas Gauthier</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Nicolas Gauthier</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
+    <title>Tags | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/tags/</link>
+      <atom:link href="https://nick-gauthier.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://nick-gauthier.github.io/tags/</link>
+    </image>
     
     <item>
-      <title>Agent-based-model</title>
-      <link>/tags/agent-based-model/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/agent-based-model/</guid>
+      <title>networks</title>
+      <link>https://nick-gauthier.github.io/tags/networks/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Climate-model</title>
-      <link>/tags/climate-model/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/climate-model/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought</title>
-      <link>/tags/drought/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/drought/</guid>
+      <title>land use</title>
+      <link>https://nick-gauthier.github.io/tags/land-use/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/tags/land-use/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GAMs</title>
-      <link>/tags/gams/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/gams/</guid>
+      <link>https://nick-gauthier.github.io/tags/gams/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/tags/gams/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Land use</title>
-      <link>/tags/land-use/</link>
+      <title>agent-based-model</title>
+      <link>https://nick-gauthier.github.io/tags/agent-based-model/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/land-use/</guid>
+      <guid>https://nick-gauthier.github.io/tags/agent-based-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Land-use</title>
-      <link>/tags/land-use/</link>
+      <title>climate-model</title>
+      <link>https://nick-gauthier.github.io/tags/climate-model/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/land-use/</guid>
+      <guid>https://nick-gauthier.github.io/tags/climate-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Networks</title>
-      <link>/tags/networks/</link>
+      <title>drought</title>
+      <link>https://nick-gauthier.github.io/tags/drought/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/networks/</guid>
+      <guid>https://nick-gauthier.github.io/tags/drought/</guid>
       <description></description>
     </item>
     
