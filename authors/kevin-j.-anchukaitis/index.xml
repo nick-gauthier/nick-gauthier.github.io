@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin J. Anchukaitis | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</link>
+      <atom:link href="https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin J. Anchukaitis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Kevin J. Anchukaitis</title>
+      <link>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</link>
+    </image>
+    
+    <item>
+      <title>Pattern-based downscaling of snowpack variability in the western United States</title>
+      <link>https://nick-gauthier.github.io/publication/snow-wna/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/snow-wna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

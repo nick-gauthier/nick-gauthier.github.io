@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/authors/</link>
       <atom:link href="https://nick-gauthier.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,96 @@
     <item>
       <title>**Nicolas Gauthier**</title>
       <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
       <guid>https://nick-gauthier.github.io/authors/nicolas-gauthier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bethany Coulthard</title>
+      <link>https://nick-gauthier.github.io/authors/bethany-coulthard/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/bethany-coulthard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin J. Anchukaitis</title>
+      <link>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beth Scaffidi</title>
+      <link>https://nick-gauthier.github.io/authors/beth-scaffidi/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/beth-scaffidi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doug Bird</title>
+      <link>https://nick-gauthier.github.io/authors/doug-bird/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/doug-bird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristina Douglass</title>
+      <link>https://nick-gauthier.github.io/authors/kristina-douglass/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/kristina-douglass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Aldenderfer</title>
+      <link>https://nick-gauthier.github.io/authors/mark-aldenderfer/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/mark-aldenderfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott Ingram</title>
+      <link>https://nick-gauthier.github.io/authors/scott-ingram/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/scott-ingram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Khider</title>
+      <link>https://nick-gauthier.github.io/authors/d.-khider/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/d.-khider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et. al (including **Nicolas Gauthier**)</title>
+      <link>https://nick-gauthier.github.io/authors/et.-al-including-nicolas-gauthier/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/et.-al-including-nicolas-gauthier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Emile‐Geay</title>
+      <link>https://nick-gauthier.github.io/authors/j.-emilegeay/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/j.-emilegeay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>N. P. McKay</title>
+      <link>https://nick-gauthier.github.io/authors/n.-p.-mckay/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/authors/n.-p.-mckay/</guid>
       <description></description>
     </item>
     
@@ -130,7 +218,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/authors/admin/</guid>
       <description>&lt;p&gt;&lt;img align=&#34;right&#34; src=&#34;img/ses.png&#34;&gt;
-I uses methods and tools from the geosciences to study past and present human societies. I specialize in building models of coupled natural-human systems, focusing on the dynamic feedbacks between population growth, food production, and climate variability over the past 10,000 years. I am currently a postdoc in the &lt;a href=&#34;http://www.u.arizona.edu/~kanchukaitis/&#34;&gt;Past Landscapes Lab&lt;/a&gt; at the University of Arizona, working to reconstruct hydroclimate variability in the western United States over the past millennium.&lt;/p&gt;
+I am an anthropologist and Earth systems geographer who uses methods and tools from the geosciences to study past and present human societies. I specialize in building models of coupled natural-human systems, focusing on the dynamic feedbacks between population growth, food production, and climate variability over the past 10,000 years. I am currently a postdoc in the &lt;a href=&#34;http://www.u.arizona.edu/~kanchukaitis/&#34;&gt;Past Landscapes Lab&lt;/a&gt; at the University of Arizona, working to reconstruct hydroclimate variability in the western United States over the past millennium.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://nick-gauthier.github.io/files/pdf/GauthierCV_Present.pdf&#34;&gt;Download my CV&lt;/a&gt; or scroll down for more information.&lt;/p&gt;
 </description>

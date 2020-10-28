@@ -5,12 +5,20 @@
     <link>https://nick-gauthier.github.io/tags/networks/</link>
       <atom:link href="https://nick-gauthier.github.io/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>networks</title>
       <link>https://nick-gauthier.github.io/tags/networks/</link>
     </image>
+    
+    <item>
+      <title>Urban Sustainability and the Persistence of Urban Systems</title>
+      <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>

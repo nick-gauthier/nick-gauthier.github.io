@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/publication_types/6/</link>
+      <atom:link href="https://nick-gauthier.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2020 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://nick-gauthier.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>The dynamics of risk perception in a Mediterranean agroecosystem</title>
+      <link>https://nick-gauthier.github.io/publication/risk-perception/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/risk-perception/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>https://nick-gauthier.github.io/project/</link>
       <atom:link href="https://nick-gauthier.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://nick-gauthier.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Urban Sustainability and the Persistence of Urban Systems</title>
+      <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Downscaling</title>
+      <link>https://nick-gauthier.github.io/project/downscaling/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/project/downscaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anthromes-12K</title>
+      <link>https://nick-gauthier.github.io/project/anthromes/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/project/anthromes/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>
@@ -33,6 +57,14 @@
       <link>https://nick-gauthier.github.io/project/gam-networks/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
       <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Origins and Spread of Agriculture</title>
+      <link>https://nick-gauthier.github.io/project/agricultural-spread/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/project/agricultural-spread/</guid>
       <description></description>
     </item>
     
