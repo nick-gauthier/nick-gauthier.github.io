@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/publication_types/2/</link>
-      <atom:link href="https://nick-gauthier.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2019 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>2</title>
-      <link>https://nick-gauthier.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>PaCTS 1.0: A Crowdsourced Reporting Standard for Paleoclimate Data</title>
-      <link>https://nick-gauthier.github.io/publication/pacts/</link>
+      <link>/publication/pacts/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/pacts/</guid>
+      <guid>/publication/pacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
-      <link>https://nick-gauthier.github.io/publication/archaeoglobe/</link>
+      <link>/publication/archaeoglobe/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/archaeoglobe/</guid>
+      <guid>/publication/archaeoglobe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
-      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
+      <link>/publication/risk-resilience/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
+      <guid>/publication/risk-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
-      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
+      <link>/publication/farming-spread-aegean/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
+      <guid>/publication/farming-spread-aegean/</guid>
       <description></description>
     </item>
     

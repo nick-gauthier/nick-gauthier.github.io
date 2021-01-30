@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>**Nicolas Gauthier** | Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
-      <atom:link href="https://nick-gauthier.github.io/authors/nicolas-gauthier/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/nicolas-gauthier/</link>
+      <atom:link href="/authors/nicolas-gauthier/index.xml" rel="self" type="application/rss+xml" />
     <description>**Nicolas Gauthier**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>**Nicolas Gauthier**</title>
-      <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
+      <link>/authors/nicolas-gauthier/</link>
     </image>
     
     <item>
       <title>Pattern-based downscaling of snowpack variability in the western United States</title>
-      <link>https://nick-gauthier.github.io/publication/snow-wna/</link>
+      <link>/publication/snow-wna/</link>
       <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/snow-wna/</guid>
+      <guid>/publication/snow-wna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Migrants of the Past, Present, and Future</title>
-      <link>https://nick-gauthier.github.io/talk/eaa-2020/</link>
+      <link>/talk/eaa-2020/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/talk/eaa-2020/</guid>
+      <guid>/talk/eaa-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trade, Migration, and the Dynamics of Spatial Interaction</title>
-      <link>https://nick-gauthier.github.io/publication/trade-migration/</link>
+      <link>/publication/trade-migration/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/trade-migration/</guid>
+      <guid>/publication/trade-migration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The dynamics of risk perception in a Mediterranean agroecosystem</title>
-      <link>https://nick-gauthier.github.io/publication/risk-perception/</link>
+      <link>/publication/risk-perception/</link>
       <pubDate>Tue, 25 Feb 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/risk-perception/</guid>
+      <guid>/publication/risk-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
-      <link>https://nick-gauthier.github.io/publication/archaeoglobe/</link>
+      <link>/publication/archaeoglobe/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/archaeoglobe/</guid>
+      <guid>/publication/archaeoglobe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multilevel simulation of demography and food production in ancient agrarian societies: A case study from Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/publication/roman-abm/</link>
+      <link>/publication/roman-abm/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/roman-abm/</guid>
+      <guid>/publication/roman-abm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
-      <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
+      <link>/publication/southwest-networks/</link>
       <pubDate>Wed, 15 May 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
+      <guid>/publication/southwest-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
-      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
+      <link>/publication/risk-resilience/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
+      <guid>/publication/risk-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
-      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
+      <link>/publication/farming-spread-aegean/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
+      <guid>/publication/farming-spread-aegean/</guid>
       <description></description>
     </item>
     

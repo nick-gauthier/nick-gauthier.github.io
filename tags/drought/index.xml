@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>drought | Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/tags/drought/</link>
-      <atom:link href="https://nick-gauthier.github.io/tags/drought/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/drought/</link>
+      <atom:link href="/tags/drought/index.xml" rel="self" type="application/rss+xml" />
     <description>drought</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>drought</title>
-      <link>https://nick-gauthier.github.io/tags/drought/</link>
+      <link>/tags/drought/</link>
     </image>
     
     <item>
       <title>Drought Variability and Social Interaction in the American Southwest</title>
-      <link>https://nick-gauthier.github.io/project/southwest/</link>
+      <link>/project/southwest/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/southwest/</guid>
+      <guid>/project/southwest/</guid>
       <description></description>
     </item>
     

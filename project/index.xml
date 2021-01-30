@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Nicolas Gauthier</title>
-    <link>https://nick-gauthier.github.io/project/</link>
-      <atom:link href="https://nick-gauthier.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://nick-gauthier.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Urban Sustainability and the Persistence of Urban Systems</title>
-      <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
+      <link>/project/urban-persistence/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
+      <guid>/project/urban-persistence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Downscaling</title>
-      <link>https://nick-gauthier.github.io/project/downscaling/</link>
+      <link>/project/downscaling/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/downscaling/</guid>
+      <guid>/project/downscaling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anthromes-12K</title>
-      <link>https://nick-gauthier.github.io/project/anthromes/</link>
+      <link>/project/anthromes/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/anthromes/</guid>
+      <guid>/project/anthromes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>
-      <link>https://nick-gauthier.github.io/project/spatial-interaction/</link>
+      <link>/project/spatial-interaction/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/spatial-interaction/</guid>
+      <guid>/project/spatial-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ArchaeoGLOBE</title>
-      <link>https://nick-gauthier.github.io/project/archaeoglobe/</link>
+      <link>/project/archaeoglobe/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/archaeoglobe/</guid>
+      <guid>/project/archaeoglobe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Additive Models for Spatial Networks</title>
-      <link>https://nick-gauthier.github.io/project/gam-networks/</link>
+      <link>/project/gam-networks/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
+      <guid>/project/gam-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Origins and Spread of Agriculture</title>
-      <link>https://nick-gauthier.github.io/project/agricultural-spread/</link>
+      <link>/project/agricultural-spread/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/agricultural-spread/</guid>
+      <guid>/project/agricultural-spread/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/project/north-africa/</link>
+      <link>/project/north-africa/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
+      <guid>/project/north-africa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought Variability and Social Interaction in the American Southwest</title>
-      <link>https://nick-gauthier.github.io/project/southwest/</link>
+      <link>/project/southwest/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/southwest/</guid>
+      <guid>/project/southwest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mediterranean Landscape Dynamics</title>
-      <link>https://nick-gauthier.github.io/project/medland/</link>
+      <link>/project/medland/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/project/medland/</guid>
+      <guid>/project/medland/</guid>
       <description></description>
     </item>
     
