@@ -5,12 +5,20 @@
     <link>/authors/nicolas-gauthier/</link>
       <atom:link href="/authors/nicolas-gauthier/index.xml" rel="self" type="application/rss+xml" />
     <description>**Nicolas Gauthier**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 -0700</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Nicolas Gauthier**</title>
       <link>/authors/nicolas-gauthier/</link>
     </image>
+    
+    <item>
+      <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
+      <link>/publication/southwest-networks/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 -0700</pubDate>
+      <guid>/publication/southwest-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pattern-based downscaling of snowpack variability in the western United States</title>
@@ -57,14 +65,6 @@
       <link>/publication/roman-abm/</link>
       <pubDate>Thu, 22 Aug 2019 00:00:00 -0700</pubDate>
       <guid>/publication/roman-abm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
-      <link>/publication/southwest-networks/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 -0700</pubDate>
-      <guid>/publication/southwest-networks/</guid>
       <description></description>
     </item>
     

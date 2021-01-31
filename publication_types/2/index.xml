@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Sep 2019 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 -0700</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
+      <link>/publication/southwest-networks/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 -0700</pubDate>
+      <guid>/publication/southwest-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PaCTS 1.0: A Crowdsourced Reporting Standard for Paleoclimate Data</title>
