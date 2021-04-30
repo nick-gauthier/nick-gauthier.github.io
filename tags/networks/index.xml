@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>networks | Nicolas Gauthier</title>
-    <link>/tags/networks/</link>
-      <atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nick-gauthier.github.io/tags/networks/</link>
+      <atom:link href="https://nick-gauthier.github.io/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>networks</title>
-      <link>/tags/networks/</link>
+      <link>https://nick-gauthier.github.io/tags/networks/</link>
     </image>
     
     <item>
       <title>Urban Sustainability and the Persistence of Urban Systems</title>
-      <link>/project/urban-persistence/</link>
+      <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
-      <guid>/project/urban-persistence/</guid>
+      <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>
-      <link>/project/spatial-interaction/</link>
+      <link>https://nick-gauthier.github.io/project/spatial-interaction/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
-      <guid>/project/spatial-interaction/</guid>
+      <guid>https://nick-gauthier.github.io/project/spatial-interaction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generalized Additive Models for Spatial Networks</title>
-      <link>/project/gam-networks/</link>
+      <link>https://nick-gauthier.github.io/project/gam-networks/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
-      <guid>/project/gam-networks/</guid>
+      <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drought Variability and Social Interaction in the American Southwest</title>
-      <link>/project/southwest/</link>
+      <link>https://nick-gauthier.github.io/project/southwest/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
-      <guid>/project/southwest/</guid>
+      <guid>https://nick-gauthier.github.io/project/southwest/</guid>
       <description></description>
     </item>
     

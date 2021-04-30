@@ -2,53 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Nicolas Gauthier</title>
-    <link>/publication_types/2/</link>
-      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nick-gauthier.github.io/publication_types/2/</link>
+      <atom:link href="https://nick-gauthier.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Apr 2021 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>2</title>
-      <link>/publication_types/2/</link>
+      <link>https://nick-gauthier.github.io/publication_types/2/</link>
     </image>
     
     <item>
+      <title>Patterns of vertebrate richness across global anthromes: prioritizing conservation beyond biomes and ecoregions</title>
+      <link>https://nick-gauthier.github.io/publication/gecco/</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/gecco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People have shaped most of terrestrial nature for at least 12,000 years</title>
+      <link>https://nick-gauthier.github.io/publication/anthromes12k/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/anthromes12k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
-      <link>/publication/southwest-networks/</link>
+      <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 -0700</pubDate>
-      <guid>/publication/southwest-networks/</guid>
+      <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PaCTS 1.0: A Crowdsourced Reporting Standard for Paleoclimate Data</title>
-      <link>/publication/pacts/</link>
+      <link>https://nick-gauthier.github.io/publication/pacts/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>/publication/pacts/</guid>
+      <guid>https://nick-gauthier.github.io/publication/pacts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
-      <link>/publication/archaeoglobe/</link>
+      <link>https://nick-gauthier.github.io/publication/archaeoglobe/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>/publication/archaeoglobe/</guid>
+      <guid>https://nick-gauthier.github.io/publication/archaeoglobe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
-      <link>/publication/risk-resilience/</link>
+      <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
       <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
-      <guid>/publication/risk-resilience/</guid>
+      <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
-      <link>/publication/farming-spread-aegean/</link>
+      <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
-      <guid>/publication/farming-spread-aegean/</guid>
+      <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
       <description></description>
     </item>
     
