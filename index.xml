@@ -5,12 +5,20 @@
     <link>https://nick-gauthier.github.io/</link>
       <atom:link href="https://nick-gauthier.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicolas Gauthier</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Apr 2021 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>Nicolas Gauthier</title>
       <link>https://nick-gauthier.github.io/</link>
     </image>
+    
+    <item>
+      <title>The persistence of ancient settlements and urban sustainability</title>
+      <link>https://nick-gauthier.github.io/publication/persistence/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 -0700</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/persistence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Patterns of vertebrate richness across global anthromes: prioritizing conservation beyond biomes and ecoregions</title>
@@ -162,24 +170,6 @@
       <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
       <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://nick-gauthier.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://nick-gauthier.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://nick-gauthier.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://nick-gauthier.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
     </item>
     
     <item>
