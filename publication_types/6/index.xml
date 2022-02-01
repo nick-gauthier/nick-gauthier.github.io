@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/publication_types/6/</link>
       <atom:link href="https://nick-gauthier.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Dec 2021 00:00:00 -0500</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>6</title>
@@ -15,8 +15,16 @@
     <item>
       <title>The dynamics of risk perception in a Mediterranean agroecosystem</title>
       <link>https://nick-gauthier.github.io/publication/risk-perception/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 -0500</pubDate>
       <guid>https://nick-gauthier.github.io/publication/risk-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Digital Proxies” for Validating Models of Past Socio-ecological Systems in the Mediterranean Landscape Dynamics Project</title>
+      <link>https://nick-gauthier.github.io/publication/digital-proxies/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 -0500</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/digital-proxies/</guid>
       <description></description>
     </item>
     

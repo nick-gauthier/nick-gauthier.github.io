@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/tags/networks/</link>
       <atom:link href="https://nick-gauthier.github.io/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     <description>networks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0400</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>networks</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Urban Sustainability and the Persistence of Urban Systems</title>
       <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 -0400</pubDate>
       <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Dynamic Spatial Interaction Modeling</title>
       <link>https://nick-gauthier.github.io/project/spatial-interaction/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
       <guid>https://nick-gauthier.github.io/project/spatial-interaction/</guid>
       <description></description>
     </item>
@@ -31,7 +31,7 @@
     <item>
       <title>Generalized Additive Models for Spatial Networks</title>
       <link>https://nick-gauthier.github.io/project/gam-networks/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
       <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
       <description></description>
     </item>
@@ -39,7 +39,7 @@
     <item>
       <title>Drought Variability and Social Interaction in the American Southwest</title>
       <link>https://nick-gauthier.github.io/project/southwest/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
       <guid>https://nick-gauthier.github.io/project/southwest/</guid>
       <description></description>
     </item>
