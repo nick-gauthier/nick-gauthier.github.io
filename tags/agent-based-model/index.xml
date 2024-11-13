@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/tags/agent-based-model/</link>
       <atom:link href="https://nick-gauthier.github.io/tags/agent-based-model/index.xml" rel="self" type="application/rss+xml" />
     <description>agent-based-model</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>agent-based-model</title>
@@ -13,27 +13,22 @@
     </image>
     
     <item>
-      <title>Origins and Spread of Agriculture</title>
-      <link>https://nick-gauthier.github.io/project/agricultural-spread/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/agricultural-spread/</guid>
-      <description></description>
+      <title>Simulating Social-Ecological Cascades</title>
+      <link>https://nick-gauthier.github.io/project/pandemics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/pandemics/</guid>
+      <description>&lt;p&gt;What made the Black Death so devastating, and what can it teach us about pandemics today? Our team is combining cutting-edge computer modeling with evidence from medieval skeletal remains, tree rings, and historical records to reconstruct one of history&amp;rsquo;s deadliest pandemics. By analyzing how climate changes affected crops, migration patterns, and urban life, we&amp;rsquo;re uncovering how environmental and social factors combined to create perfect conditions for catastrophic disease outbreaks. This innovative approach doesn&amp;rsquo;t just illuminate history – it&amp;rsquo;s helping us understand how climate and society influence modern disease outbreaks, offering crucial insights for public health planning in our changing world.&lt;/p&gt;
+&lt;p&gt;This project was recently funded by the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409068&amp;amp;HistoricalAwards=false&#34;&gt;US National Science Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/project/north-africa/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediterranean Landscape Dynamics</title>
-      <link>https://nick-gauthier.github.io/project/medland/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/medland/</guid>
-      <description></description>
+      <title>Digital Prehistory: Simulating Ancient Human-Environment Systems</title>
+      <link>https://nick-gauthier.github.io/project/demography/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/demography/</guid>
+      <description>&lt;p&gt;How did ancient societies grow, move, and adapt to environmental change? Our team is developing powerful new computational tools to simulate the fundamental patterns of human civilization - from population growth and migration to agriculture and trade. At the heart of this work is MALTHUS, an open-source modeling framework that recreates how preindustrial societies responded to changes in food availability, climate, and landscape. By running thousands of virtual societies on high-performance computers, we can test theories about how environmental constraints shaped human history and better understand humanity&amp;rsquo;s long-term relationship with Earth&amp;rsquo;s systems. This work provides a computational laboratory for exploring age-old questions about population, resources, and societal development, while offering new insights for modeling human behavior in modern Earth system science.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,552 +1,502 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/nicolas-gauthier/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication_types/3/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/bethany-coulthard/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/snow-wna/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication_types/</loc>
-    <lastmod>2021-12-26T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication_types/6/</loc>
-    <lastmod>2021-12-25T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/risk-perception/</loc>
-    <lastmod>2021-12-25T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/arjun-heimsath/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/c.-michael-barton/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/grant-snitker/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/irene-esteban-alama/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/isaac-i.-t.-ullah/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/joan-bernabeu-auban/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/nari-miller/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/digital-proxies/</loc>
-    <lastmod>2021-12-24T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication_types/2/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/abigail-m.-york/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/angela-c.-huster/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/benjamin-w.-stanley/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/jose-lobo/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/katherine-a.-crawford/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/matthew-a.-peeples/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/michael-e.-smith/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/persistence/</loc>
-    <lastmod>2021-05-18T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/emma-k-cook/</loc>
-    <lastmod>2021-04-28T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/john-e-quinn/</loc>
-    <lastmod>2021-04-28T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/gecco/</loc>
-    <lastmod>2021-04-28T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/crystal-n.-h.-mcmichael/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/darren-ranco/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/dorian-q.-fuller/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/erle-c.-ellis/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/harvey-locke/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/jacquelyn-l.-gill/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/james-e.-m.-watson/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/jed-o.-kaplan/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/jens-christian-svenning/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/kees-klein-goldewijk/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/lucas-stephens/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/m.-rebecca-shaw/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/naomi-kingston/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/nicole-boivin/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/anthromes12k/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/rebecca-bliege-bird/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/sandra-diaz/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/torben-c.-rick/</loc>
-    <lastmod>2021-04-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/southwest-networks/</loc>
-    <lastmod>2021-01-28T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/networks/</loc>
-    <lastmod>2020-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/</loc>
-    <lastmod>2020-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/</loc>
-    <lastmod>2020-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/urban-persistence/</loc>
-    <lastmod>2020-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/beth-scaffidi/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/eaa-2020/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/doug-bird/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/kristina-douglass/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/mark-aldenderfer/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/scott-ingram/</loc>
-    <lastmod>2020-08-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/trade-migration/</loc>
-    <lastmod>2020-07-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/downscaling/</loc>
-    <lastmod>2020-03-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/downscaling/</loc>
-    <lastmod>2020-03-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/saa-2017/</loc>
-    <lastmod>2020-01-30T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/anthromes/</loc>
-    <lastmod>2019-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/spatial-interaction/</loc>
-    <lastmod>2019-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/land-use/</loc>
-    <lastmod>2019-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/d.-khider/</loc>
-    <lastmod>2019-09-03T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/et.-al-including-nicolas-gauthier/</loc>
-    <lastmod>2019-09-03T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/j.-emilegeay/</loc>
-    <lastmod>2019-09-03T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/n.-p.-mckay/</loc>
-    <lastmod>2019-09-03T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/pacts/</loc>
-    <lastmod>2019-09-03T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/archaeoglobe/</loc>
-    <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/and-the-archaeoglobe-project/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/andrea-kay/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/archaeoglobe/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/ben-marwick/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/dorian-fuller/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/torben-rick/</loc>
-    <lastmod>2019-08-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/roman-abm/</loc>
-    <lastmod>2019-08-22T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/saa-2019b/</loc>
-    <lastmod>2019-04-12T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/saa-2019a/</loc>
-    <lastmod>2019-04-11T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/gams/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/gam-networks/</loc>
-    <lastmod>2019-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/c-michael-barton/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/genevieve-pothier-bouchard/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/j-emili-aura-tortosa/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/julien-g-riel-salvatore/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/margarita-vadillo-conesa/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/authors/oreto-garcia-puchol/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/publication/risk-resilience/</loc>
-    <lastmod>2018-03-15T00:00:00-04:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://nick-gauthier.github.io/tags/agent-based-model/</loc>
-    <lastmod>2017-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/agricultural-spread/</loc>
-    <lastmod>2017-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/saa-2018/</loc>
-    <lastmod>2017-04-02T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/swsymposium-2020/</loc>
-    <lastmod>2017-04-02T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/talk/caa-2017/</loc>
-    <lastmod>2017-04-02T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/north-africa/</loc>
-    <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/downscaling/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/isoscape/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/machine-learning/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/pandemics/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/petrography/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/deep-learning/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/petrography/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/nicolas-gauthier/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication_types/2/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/catherine-a-abbott/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/craig-liddicoat/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jake-m-robinson/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/joel-e-brame/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/martin-f-breed/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication_types/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/robert-a-edwards/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/butyrate/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/remote-sensing/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/calusa/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication_types/6/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/dryland-infrastructure/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/christopher-h-baisan/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/david-m-meko/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jeff-dean/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jose-villanueva-diaz/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jupiter-martinez/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/laura-m-norman/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/matthew-c-pailes/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/nicholas-v-kessler/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/ron-towner/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/campanula/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/networks/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/abigail-york/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/aromar-revi/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/celine-dcruz/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/christa-brelsford/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/christopher-boone/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/debra-c-roberts/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/diane-pataki/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/hallie-eakin/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/npj-urban-sustainability/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jose-lobo/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/luis-bojorquez-tapia/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/luis-ma-bettencourt/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/marc-wolfram/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/marcy-rockman/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/marina-alberti/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/melissa-allen-dumas/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/michael-e-smith/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/peter-schlosser/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/rimjhim-m-aggarwal/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/sara-meerow/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/sharmistha-bagchi-sen/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/tao-lin/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/vanesa-castan-broto/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/william-solecki/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/xuemei-bai/</loc>
+    <lastmod>2023-06-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/tags/climate-model/</loc>
-    <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/tags/drought/</loc>
-    <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/southwest/</loc>
-    <lastmod>2017-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/demography/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/tags/land-use/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/persistence-antiquity/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/abigail-m.-york/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/angela-c.-huster/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/dan-lawrence/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/katherine-a.-crawford/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/matthew-a.-peeples/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/michael-e.-smith/</loc>
+    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/history-climate-society/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/andrea-manica/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/dagomar-degroot/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/emma-moesswilde/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/felix-riede/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jessica-e.-tierney/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/kevin-j.-anchukaitis/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication_types/3/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/bethany-coulthard/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/snow-wna/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/risk-perception/</loc>
+    <lastmod>2021-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/digital-proxies/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/arjun-heimsath/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/c.-michael-barton/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/grant-snitker/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/irene-esteban-alama/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/isaac-i.-t.-ullah/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/joan-bernabeu-auban/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/nari-miller/</loc>
+    <lastmod>2021-12-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/benjamin-w.-stanley/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/persistence/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/emma-k-cook/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/john-e-quinn/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/gecco/</loc>
+    <lastmod>2021-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/crystal-n.-h.-mcmichael/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/darren-ranco/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/dorian-q.-fuller/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/erle-c.-ellis/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/harvey-locke/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jacquelyn-l.-gill/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/james-e.-m.-watson/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jed-o.-kaplan/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/jens-christian-svenning/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/kees-klein-goldewijk/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/lucas-stephens/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/m.-rebecca-shaw/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/naomi-kingston/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/nicole-boivin/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/anthromes12k/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/rebecca-bliege-bird/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/sandra-diaz/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/torben-c.-rick/</loc>
+    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/southwest-networks/</loc>
+    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/urban-persistence/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/beth-scaffidi/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/eaa-2020/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/doug-bird/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/kristina-douglass/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/mark-aldenderfer/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/scott-ingram/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/trade-migration/</loc>
+    <lastmod>2020-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/downscaling/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2017/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/d.-khider/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/et.-al-including-nicolas-gauthier/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/j.-emilegeay/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/n.-p.-mckay/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/pacts/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/and-the-archaeoglobe-project/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/andrea-kay/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/archaeoglobe/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/ben-marwick/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/dorian-fuller/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/torben-rick/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/roman-abm/</loc>
+    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2019b/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2019a/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/c-michael-barton/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/genevieve-pothier-bouchard/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/j-emili-aura-tortosa/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/julien-g-riel-salvatore/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/margarita-vadillo-conesa/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/oreto-garcia-puchol/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/publication/risk-resilience/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/saa-2018/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/swsymposium-2020/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/talk/caa-2017/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/talk/sdwg/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/talk/comses/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/publication/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/talk/</loc>
-    <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/publication/farming-spread-aegean/</loc>
-    <lastmod>2016-11-30T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nick-gauthier.github.io/project/medland/</loc>
-    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/publication_types/0/</loc>
-    <lastmod>2013-05-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2013-05-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/publication/ba-thesis/</loc>
-    <lastmod>2013-05-30T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2013-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/project/archaeoglobe/</loc>
+    <lastmod>2011-09-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://nick-gauthier.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/bhramdat/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/bird/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/blahnik/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/chandrasekhar/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/heo/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/rojas/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/rutkoski/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/stamm/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/wood/</loc>
+  </url><url>
+    <loc>https://nick-gauthier.github.io/authors/zhang/</loc>
+  </url><url>
     <loc>https://nick-gauthier.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://nick-gauthier.github.io/post/</loc>
   </url>
-  
 </urlset>

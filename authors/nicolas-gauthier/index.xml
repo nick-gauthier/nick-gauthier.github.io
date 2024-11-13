@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/authors/nicolas-gauthier/</link>
       <atom:link href="https://nick-gauthier.github.io/authors/nicolas-gauthier/index.xml" rel="self" type="application/rss+xml" />
     <description>**Nicolas Gauthier**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 May 2021 00:00:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>**Nicolas Gauthier**</title>
@@ -13,9 +13,73 @@
     </image>
     
     <item>
+      <title>The macroecology of butyrate-producing bacteria via metagenomic assessment of butyrate production capacity</title>
+      <link>https://nick-gauthier.github.io/publication/butyrate/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/butyrate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient infrastructure offers sustainable agricultural solutions to dryland farming</title>
+      <link>https://nick-gauthier.github.io/publication/dryland-infrastructure/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/dryland-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of urban science and urban climate adaptation research: opportunities to advance climate action</title>
+      <link>https://nick-gauthier.github.io/publication/npj-urban-sustainability/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/npj-urban-sustainability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic approach for studying the persistence of settlements in the past</title>
+      <link>https://nick-gauthier.github.io/publication/persistence-antiquity/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/persistence-antiquity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“The history of climate and society: a review of the influence of climate change on the human past</title>
+      <link>https://nick-gauthier.github.io/publication/history-climate-society/</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/history-climate-society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-based downscaling of snowpack variability in the western United States</title>
+      <link>https://nick-gauthier.github.io/publication/snow-wna/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/snow-wna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The dynamics of risk perception in a Mediterranean agroecosystem</title>
+      <link>https://nick-gauthier.github.io/publication/risk-perception/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/risk-perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Digital Proxies” for Validating Models of Past Socio-ecological Systems in the Mediterranean Landscape Dynamics Project</title>
+      <link>https://nick-gauthier.github.io/publication/digital-proxies/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/digital-proxies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The persistence of ancient settlements and urban sustainability</title>
       <link>https://nick-gauthier.github.io/publication/persistence/</link>
-      <pubDate>Tue, 18 May 2021 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/persistence/</guid>
       <description></description>
     </item>
@@ -23,7 +87,7 @@
     <item>
       <title>Patterns of vertebrate richness across global anthromes: prioritizing conservation beyond biomes and ecoregions</title>
       <link>https://nick-gauthier.github.io/publication/gecco/</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/gecco/</guid>
       <description></description>
     </item>
@@ -31,7 +95,7 @@
     <item>
       <title>People have shaped most of terrestrial nature for at least 12,000 years</title>
       <link>https://nick-gauthier.github.io/publication/anthromes12k/</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/anthromes12k/</guid>
       <description></description>
     </item>
@@ -39,23 +103,15 @@
     <item>
       <title>Hydroclimate variability influenced social interaction in the prehistoric American Southwest</title>
       <link>https://nick-gauthier.github.io/publication/southwest-networks/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/southwest-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pattern-based downscaling of snowpack variability in the western United States</title>
-      <link>https://nick-gauthier.github.io/publication/snow-wna/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/snow-wna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Migrants of the Past, Present, and Future</title>
       <link>https://nick-gauthier.github.io/talk/eaa-2020/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/talk/eaa-2020/</guid>
       <description></description>
     </item>
@@ -63,23 +119,15 @@
     <item>
       <title>Trade, Migration, and the Dynamics of Spatial Interaction</title>
       <link>https://nick-gauthier.github.io/publication/trade-migration/</link>
-      <pubDate>Thu, 30 Jul 2020 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/trade-migration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The dynamics of risk perception in a Mediterranean agroecosystem</title>
-      <link>https://nick-gauthier.github.io/publication/risk-perception/</link>
-      <pubDate>Tue, 25 Feb 2020 00:00:00 -0700</pubDate>
-      <guid>https://nick-gauthier.github.io/publication/risk-perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archaeological assessment reveals Earth’s early transformation through land use</title>
       <link>https://nick-gauthier.github.io/publication/archaeoglobe/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/archaeoglobe/</guid>
       <description></description>
     </item>
@@ -87,7 +135,7 @@
     <item>
       <title>Multilevel simulation of demography and food production in ancient agrarian societies: A case study from Roman North Africa</title>
       <link>https://nick-gauthier.github.io/publication/roman-abm/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/roman-abm/</guid>
       <description></description>
     </item>
@@ -95,7 +143,7 @@
     <item>
       <title>Risk and resilience in the late glacial: A case study from the western Mediterranean</title>
       <link>https://nick-gauthier.github.io/publication/risk-resilience/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/risk-resilience/</guid>
       <description></description>
     </item>
@@ -103,7 +151,7 @@
     <item>
       <title>The spatial pattern of climate change during the spread of farming into the Aegean</title>
       <link>https://nick-gauthier.github.io/publication/farming-spread-aegean/</link>
-      <pubDate>Wed, 30 Nov 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/farming-spread-aegean/</guid>
       <description></description>
     </item>
@@ -111,7 +159,7 @@
     <item>
       <title>Modeling agropastoral landscapes in the Marmara Lake Basin, western Anatolia</title>
       <link>https://nick-gauthier.github.io/publication/ba-thesis/</link>
-      <pubDate>Thu, 30 May 2013 00:00:00 -0700</pubDate>
+      <pubDate>Thu, 30 May 2013 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/publication/ba-thesis/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron Towner | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/authors/ron-towner/</link>
+      <atom:link href="https://nick-gauthier.github.io/authors/ron-towner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ron Towner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Ron Towner</title>
+      <link>https://nick-gauthier.github.io/authors/ron-towner/</link>
+    </image>
+    
+    <item>
+      <title>Ancient infrastructure offers sustainable agricultural solutions to dryland farming</title>
+      <link>https://nick-gauthier.github.io/publication/dryland-infrastructure/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/dryland-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

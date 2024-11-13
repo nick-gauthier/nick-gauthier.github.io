@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuemei Bai | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/authors/xuemei-bai/</link>
+      <atom:link href="https://nick-gauthier.github.io/authors/xuemei-bai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuemei Bai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>Xuemei Bai</title>
+      <link>https://nick-gauthier.github.io/authors/xuemei-bai/</link>
+    </image>
+    
+    <item>
+      <title>Integration of urban science and urban climate adaptation research: opportunities to advance climate action</title>
+      <link>https://nick-gauthier.github.io/publication/npj-urban-sustainability/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/publication/npj-urban-sustainability/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

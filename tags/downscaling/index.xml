@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/tags/downscaling/</link>
       <atom:link href="https://nick-gauthier.github.io/tags/downscaling/index.xml" rel="self" type="application/rss+xml" />
     <description>downscaling</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>downscaling</title>
@@ -13,11 +13,22 @@
     </image>
     
     <item>
-      <title>Spatial Downscaling</title>
+      <title>Simulating Social-Ecological Cascades</title>
+      <link>https://nick-gauthier.github.io/project/pandemics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/pandemics/</guid>
+      <description>&lt;p&gt;What made the Black Death so devastating, and what can it teach us about pandemics today? Our team is combining cutting-edge computer modeling with evidence from medieval skeletal remains, tree rings, and historical records to reconstruct one of history&amp;rsquo;s deadliest pandemics. By analyzing how climate changes affected crops, migration patterns, and urban life, we&amp;rsquo;re uncovering how environmental and social factors combined to create perfect conditions for catastrophic disease outbreaks. This innovative approach doesn&amp;rsquo;t just illuminate history – it&amp;rsquo;s helping us understand how climate and society influence modern disease outbreaks, offering crucial insights for public health planning in our changing world.&lt;/p&gt;
+&lt;p&gt;This project was recently funded by the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409068&amp;amp;HistoricalAwards=false&#34;&gt;US National Science Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging Global Climate Models and Local Impacts</title>
       <link>https://nick-gauthier.github.io/project/downscaling/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/project/downscaling/</guid>
-      <description></description>
+      <description>&lt;p&gt;How do global climate patterns affect your local weather? We&amp;rsquo;re using machine learning to bridge the gap between massive climate models that simulate Earth&amp;rsquo;s entire atmosphere and the local conditions that impact daily life. Our deep learning systems analyze vast archives of climate data - from ancient tree rings to future climate projections - to reveal detailed patterns of temperature, rainfall, and extreme weather at scales relevant to human communities. By &amp;ldquo;downscaling&amp;rdquo; global climate projections to local levels, we&amp;rsquo;re helping communities better understand and prepare for climate change impacts in their specific region. This work transforms abstract climate science into actionable insights for adaptation planning, resource management, and policy decisions.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

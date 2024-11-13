@@ -1,55 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>land-use | Nicolas Gauthier</title>
+    <title>land use | Nicolas Gauthier</title>
     <link>https://nick-gauthier.github.io/tags/land-use/</link>
       <atom:link href="https://nick-gauthier.github.io/tags/land-use/index.xml" rel="self" type="application/rss+xml" />
-    <description>land-use</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 -0400</lastBuildDate>
+    <description>land use</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
-      <title>land-use</title>
+      <title>land use</title>
       <link>https://nick-gauthier.github.io/tags/land-use/</link>
     </image>
     
     <item>
-      <title>Anthromes-12K</title>
-      <link>https://nick-gauthier.github.io/project/anthromes/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/anthromes/</guid>
-      <description></description>
+      <title>Digital Prehistory: Simulating Ancient Human-Environment Systems</title>
+      <link>https://nick-gauthier.github.io/project/demography/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/demography/</guid>
+      <description>&lt;p&gt;How did ancient societies grow, move, and adapt to environmental change? Our team is developing powerful new computational tools to simulate the fundamental patterns of human civilization - from population growth and migration to agriculture and trade. At the heart of this work is MALTHUS, an open-source modeling framework that recreates how preindustrial societies responded to changes in food availability, climate, and landscape. By running thousands of virtual societies on high-performance computers, we can test theories about how environmental constraints shaped human history and better understand humanity&amp;rsquo;s long-term relationship with Earth&amp;rsquo;s systems. This work provides a computational laboratory for exploring age-old questions about population, resources, and societal development, while offering new insights for modeling human behavior in modern Earth system science.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ArchaeoGLOBE</title>
+      <title>Mapping Humanity&#39;s Footprint: 12,000 Years of Global Land Use</title>
       <link>https://nick-gauthier.github.io/project/archaeoglobe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/project/archaeoglobe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Origins and Spread of Agriculture</title>
-      <link>https://nick-gauthier.github.io/project/agricultural-spread/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/agricultural-spread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/project/north-africa/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediterranean Landscape Dynamics</title>
-      <link>https://nick-gauthier.github.io/project/medland/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/medland/</guid>
-      <description></description>
+      <description>&lt;p&gt;How have humans shaped Earth&amp;rsquo;s landscapes over millennia? Through two major collaborative projects - Anthromes-12k and ArchaeoGLOBE - we&amp;rsquo;re working with archaeologists worldwide to map humanity&amp;rsquo;s environmental impact across 12,000 years of history. By combining archaeological evidence with cutting-edge data science, we&amp;rsquo;re reconstructing when and where ancient societies transformed their environments through agriculture, urbanization, and resource use. This work challenges traditional views of &amp;ldquo;pristine&amp;rdquo; past landscapes, revealing instead a deep history of human-environment interaction that continues to influence patterns of biodiversity and land use today. Our resulting datasets and digital atlases provide crucial historical context for current Earth system models and conservation efforts.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>isoscape | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/tags/isoscape/</link>
+      <atom:link href="https://nick-gauthier.github.io/tags/isoscape/index.xml" rel="self" type="application/rss+xml" />
+    <description>isoscape</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>isoscape</title>
+      <link>https://nick-gauthier.github.io/tags/isoscape/</link>
+    </image>
+    
+    <item>
+      <title>Simulating Social-Ecological Cascades</title>
+      <link>https://nick-gauthier.github.io/project/pandemics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/pandemics/</guid>
+      <description>&lt;p&gt;What made the Black Death so devastating, and what can it teach us about pandemics today? Our team is combining cutting-edge computer modeling with evidence from medieval skeletal remains, tree rings, and historical records to reconstruct one of history&amp;rsquo;s deadliest pandemics. By analyzing how climate changes affected crops, migration patterns, and urban life, we&amp;rsquo;re uncovering how environmental and social factors combined to create perfect conditions for catastrophic disease outbreaks. This innovative approach doesn&amp;rsquo;t just illuminate history – it&amp;rsquo;s helping us understand how climate and society influence modern disease outbreaks, offering crucial insights for public health planning in our changing world.&lt;/p&gt;
+&lt;p&gt;This project was recently funded by the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409068&amp;amp;HistoricalAwards=false&#34;&gt;US National Science Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

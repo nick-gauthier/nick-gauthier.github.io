@@ -5,7 +5,7 @@
     <link>https://nick-gauthier.github.io/project/</link>
       <atom:link href="https://nick-gauthier.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nick-gauthier.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -13,83 +13,77 @@
     </image>
     
     <item>
-      <title>Urban Sustainability and the Persistence of Urban Systems</title>
+      <title>Simulating Social-Ecological Cascades</title>
+      <link>https://nick-gauthier.github.io/project/pandemics/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/pandemics/</guid>
+      <description>&lt;p&gt;What made the Black Death so devastating, and what can it teach us about pandemics today? Our team is combining cutting-edge computer modeling with evidence from medieval skeletal remains, tree rings, and historical records to reconstruct one of history&amp;rsquo;s deadliest pandemics. By analyzing how climate changes affected crops, migration patterns, and urban life, we&amp;rsquo;re uncovering how environmental and social factors combined to create perfect conditions for catastrophic disease outbreaks. This innovative approach doesn&amp;rsquo;t just illuminate history – it&amp;rsquo;s helping us understand how climate and society influence modern disease outbreaks, offering crucial insights for public health planning in our changing world.&lt;/p&gt;
+&lt;p&gt;This project was recently funded by the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2409068&amp;amp;HistoricalAwards=false&#34;&gt;US National Science Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> AI-Powered Museum Microscopy</title>
+      <link>https://nick-gauthier.github.io/project/petrography/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/petrography/</guid>
+      <description>&lt;p&gt;Hidden within museum collections are thousands of thin slices of rock, pottery, and bone that tell stories of Earth&amp;rsquo;s history and human civilization. Using cutting-edge whole slide imaging technology – the same tools revolutionizing medical diagnostics – we&amp;rsquo;re creating detailed digital scans of these precious specimens. But we&amp;rsquo;re going beyond just digitization: our artificial intelligence systems analyze these images automatically, detecting patterns and features that might take humans years to discover manually. This innovative approach not only preserves these irreplaceable collections but transforms them into interactive digital resources that anyone can access and study from anywhere in the world. From geologists studying ancient rocks to archaeologists examining prehistoric pottery, this project opens new windows into the microscopic world of museum collections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Ancient Coastal Engineering from Above</title>
+      <link>https://nick-gauthier.github.io/project/calusa/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/calusa/</guid>
+      <description>&lt;p&gt;Off the coast of Florida lie hidden traces of remarkable environmental engineering – artificial islands and coastal structures built by indigenous peoples centuries ago. Using cutting-edge LiDAR technology, our team is mapping these submerged and eroded landscapes to understand how past societies shaped their coastal environments. By combining aerial scanning with advanced modeling, we&amp;rsquo;re uncovering how these engineered landscapes supported complex civilizations and continue to influence coastal dynamics today. This research not only illuminates a fascinating chapter of human ingenuity but also provides crucial insights for modern coastal management and climate adaptation strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution in the Ancient Mediterranean: Plants and People Through Time</title>
+      <link>https://nick-gauthier.github.io/project/campanula/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/campanula/</guid>
+      <description>&lt;p&gt;The Mediterranean Basin harbors an extraordinary diversity of plant life, including over 350 species of bellflowers - half of which are found nowhere else on Earth. But how has thousands of years of human activity shaped this unique botanical heritage? Working with &lt;a href=&#34;https://www.floridamuseum.ufl.edu/cellinese-lab/&#34;&gt;Dr. Nico Cellinese&lt;/a&gt; and colleagues at the Florida Museum of Natural History, we&amp;rsquo;re combining cutting-edge genetic analysis with archaeological data on past human land use to reconstruct the evolutionary journey of these remarkable plants. By tracking how ancient farming, grazing, and urbanization influenced where bellflowers could grow and survive, we&amp;rsquo;re uncovering how human civilization has become intertwined with plant evolution. This work not only illuminates the deep history of human-environment relationships in the Mediterranean but also helps predict how these unique species might respond to future environmental change.&lt;/p&gt;
+&lt;p&gt;This project was recently funded by the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2348709&amp;amp;HistoricalAwards=false&#34;&gt;US National Science Foundation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Prehistory: Simulating Ancient Human-Environment Systems</title>
+      <link>https://nick-gauthier.github.io/project/demography/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/demography/</guid>
+      <description>&lt;p&gt;How did ancient societies grow, move, and adapt to environmental change? Our team is developing powerful new computational tools to simulate the fundamental patterns of human civilization - from population growth and migration to agriculture and trade. At the heart of this work is MALTHUS, an open-source modeling framework that recreates how preindustrial societies responded to changes in food availability, climate, and landscape. By running thousands of virtual societies on high-performance computers, we can test theories about how environmental constraints shaped human history and better understand humanity&amp;rsquo;s long-term relationship with Earth&amp;rsquo;s systems. This work provides a computational laboratory for exploring age-old questions about population, resources, and societal development, while offering new insights for modeling human behavior in modern Earth system science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Cities Survive: Measuring Urban Persistence Through Time</title>
       <link>https://nick-gauthier.github.io/project/urban-persistence/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/project/urban-persistence/</guid>
-      <description></description>
+      <description>&lt;p&gt;What determines whether a city survives for decades or millennia? Working with Arizona State University&amp;rsquo;s School of Human Evolution and Social Change, our team is building one of archaeology&amp;rsquo;s most detailed databases of urban settlements. By combining intensive archaeological survey data with historical records, we&amp;rsquo;re tracking how cities responded to challenges across time and space. This unprecedented detail allows us to untangle the complex relationships between geographic advantages, population dynamics, and institutional structures that helped some settlements persist while others vanished. Our findings offer new perspectives on urban resilience, revealing patterns that connect ancient urban experiences to modern questions of city survival and adaptation.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial Downscaling</title>
+      <title>Bridging Global Climate Models and Local Impacts</title>
       <link>https://nick-gauthier.github.io/project/downscaling/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/project/downscaling/</guid>
-      <description></description>
+      <description>&lt;p&gt;How do global climate patterns affect your local weather? We&amp;rsquo;re using machine learning to bridge the gap between massive climate models that simulate Earth&amp;rsquo;s entire atmosphere and the local conditions that impact daily life. Our deep learning systems analyze vast archives of climate data - from ancient tree rings to future climate projections - to reveal detailed patterns of temperature, rainfall, and extreme weather at scales relevant to human communities. By &amp;ldquo;downscaling&amp;rdquo; global climate projections to local levels, we&amp;rsquo;re helping communities better understand and prepare for climate change impacts in their specific region. This work transforms abstract climate science into actionable insights for adaptation planning, resource management, and policy decisions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Anthromes-12K</title>
-      <link>https://nick-gauthier.github.io/project/anthromes/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/anthromes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Spatial Interaction Modeling</title>
-      <link>https://nick-gauthier.github.io/project/spatial-interaction/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/spatial-interaction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ArchaeoGLOBE</title>
+      <title>Mapping Humanity&#39;s Footprint: 12,000 Years of Global Land Use</title>
       <link>https://nick-gauthier.github.io/project/archaeoglobe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
       <guid>https://nick-gauthier.github.io/project/archaeoglobe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized Additive Models for Spatial Networks</title>
-      <link>https://nick-gauthier.github.io/project/gam-networks/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/gam-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Origins and Spread of Agriculture</title>
-      <link>https://nick-gauthier.github.io/project/agricultural-spread/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/agricultural-spread/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Agricultural Niche Construction in Roman North Africa</title>
-      <link>https://nick-gauthier.github.io/project/north-africa/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/north-africa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought Variability and Social Interaction in the American Southwest</title>
-      <link>https://nick-gauthier.github.io/project/southwest/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/southwest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediterranean Landscape Dynamics</title>
-      <link>https://nick-gauthier.github.io/project/medland/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      <guid>https://nick-gauthier.github.io/project/medland/</guid>
-      <description></description>
+      <description>&lt;p&gt;How have humans shaped Earth&amp;rsquo;s landscapes over millennia? Through two major collaborative projects - Anthromes-12k and ArchaeoGLOBE - we&amp;rsquo;re working with archaeologists worldwide to map humanity&amp;rsquo;s environmental impact across 12,000 years of history. By combining archaeological evidence with cutting-edge data science, we&amp;rsquo;re reconstructing when and where ancient societies transformed their environments through agriculture, urbanization, and resource use. This work challenges traditional views of &amp;ldquo;pristine&amp;rdquo; past landscapes, revealing instead a deep history of human-environment interaction that continues to influence patterns of biodiversity and land use today. Our resulting datasets and digital atlases provide crucial historical context for current Earth system models and conservation efforts.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

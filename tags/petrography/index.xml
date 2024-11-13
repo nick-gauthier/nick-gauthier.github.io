@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>petrography | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/tags/petrography/</link>
+      <atom:link href="https://nick-gauthier.github.io/tags/petrography/index.xml" rel="self" type="application/rss+xml" />
+    <description>petrography</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>petrography</title>
+      <link>https://nick-gauthier.github.io/tags/petrography/</link>
+    </image>
+    
+    <item>
+      <title> AI-Powered Museum Microscopy</title>
+      <link>https://nick-gauthier.github.io/project/petrography/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/petrography/</guid>
+      <description>&lt;p&gt;Hidden within museum collections are thousands of thin slices of rock, pottery, and bone that tell stories of Earth&amp;rsquo;s history and human civilization. Using cutting-edge whole slide imaging technology – the same tools revolutionizing medical diagnostics – we&amp;rsquo;re creating detailed digital scans of these precious specimens. But we&amp;rsquo;re going beyond just digitization: our artificial intelligence systems analyze these images automatically, detecting patterns and features that might take humans years to discover manually. This innovative approach not only preserves these irreplaceable collections but transforms them into interactive digital resources that anyone can access and study from anywhere in the world. From geologists studying ancient rocks to archaeologists examining prehistoric pottery, this project opens new windows into the microscopic world of museum collections.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep-learning | Nicolas Gauthier</title>
+    <link>https://nick-gauthier.github.io/tags/deep-learning/</link>
+      <atom:link href="https://nick-gauthier.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>deep-learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nick-gauthier.github.io/img/icon-192.png</url>
+      <title>deep-learning</title>
+      <link>https://nick-gauthier.github.io/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title> AI-Powered Museum Microscopy</title>
+      <link>https://nick-gauthier.github.io/project/petrography/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/petrography/</guid>
+      <description>&lt;p&gt;Hidden within museum collections are thousands of thin slices of rock, pottery, and bone that tell stories of Earth&amp;rsquo;s history and human civilization. Using cutting-edge whole slide imaging technology – the same tools revolutionizing medical diagnostics – we&amp;rsquo;re creating detailed digital scans of these precious specimens. But we&amp;rsquo;re going beyond just digitization: our artificial intelligence systems analyze these images automatically, detecting patterns and features that might take humans years to discover manually. This innovative approach not only preserves these irreplaceable collections but transforms them into interactive digital resources that anyone can access and study from anywhere in the world. From geologists studying ancient rocks to archaeologists examining prehistoric pottery, this project opens new windows into the microscopic world of museum collections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncovering Ancient Coastal Engineering from Above</title>
+      <link>https://nick-gauthier.github.io/project/calusa/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/calusa/</guid>
+      <description>&lt;p&gt;Off the coast of Florida lie hidden traces of remarkable environmental engineering – artificial islands and coastal structures built by indigenous peoples centuries ago. Using cutting-edge LiDAR technology, our team is mapping these submerged and eroded landscapes to understand how past societies shaped their coastal environments. By combining aerial scanning with advanced modeling, we&amp;rsquo;re uncovering how these engineered landscapes supported complex civilizations and continue to influence coastal dynamics today. This research not only illuminates a fascinating chapter of human ingenuity but also provides crucial insights for modern coastal management and climate adaptation strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bridging Global Climate Models and Local Impacts</title>
+      <link>https://nick-gauthier.github.io/project/downscaling/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://nick-gauthier.github.io/project/downscaling/</guid>
+      <description>&lt;p&gt;How do global climate patterns affect your local weather? We&amp;rsquo;re using machine learning to bridge the gap between massive climate models that simulate Earth&amp;rsquo;s entire atmosphere and the local conditions that impact daily life. Our deep learning systems analyze vast archives of climate data - from ancient tree rings to future climate projections - to reveal detailed patterns of temperature, rainfall, and extreme weather at scales relevant to human communities. By &amp;ldquo;downscaling&amp;rdquo; global climate projections to local levels, we&amp;rsquo;re helping communities better understand and prepare for climate change impacts in their specific region. This work transforms abstract climate science into actionable insights for adaptation planning, resource management, and policy decisions.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
